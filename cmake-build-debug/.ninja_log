@@ -1,0 +1,5 @@
+# ninja log v5
+4	519	6972831065250577	CMakeFiles/DesignPattern.dir/main.cpp.obj	6a04217efaf9677b
+520	694	6972831066954147	DesignPattern.exe	c72d7de9ffda0fd9
+11	512	6972831065165823	CMakeFiles/DesignPattern.dir/TemplateMethod.cpp.obj	8c3fad712b1d56d2
+18	509	6972831065135811	CMakeFiles/DesignPattern.dir/TMApp.cpp.obj	a9af05512e3ff141

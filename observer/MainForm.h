@@ -11,7 +11,7 @@
 
 using TextBox = std::string;
 
-class MainForm {
+class MainForm  {
 private:
     TextBox  txtFilePath;
     TextBox  txtFileNum;

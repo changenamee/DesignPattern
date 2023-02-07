@@ -1,5 +1,6 @@
 # ninja log v5
-4	519	6972831065250577	CMakeFiles/DesignPattern.dir/main.cpp.obj	6a04217efaf9677b
 520	694	6972831066954147	DesignPattern.exe	c72d7de9ffda0fd9
-11	512	6972831065165823	CMakeFiles/DesignPattern.dir/TemplateMethod.cpp.obj	8c3fad712b1d56d2
-18	509	6972831065135811	CMakeFiles/DesignPattern.dir/TMApp.cpp.obj	a9af05512e3ff141
+3	113	1675733985585010638	CMakeFiles/DesignPattern.dir/observer/ProgressBar.cpp.o	521d42f6076fe689
+1	333	1675733985803634608	CMakeFiles/DesignPattern.dir/observer/MainForm.cpp.o	e83f875d8a00f114
+0	365	1675733985836124650	CMakeFiles/DesignPattern.dir/main.cpp.o	4212c9a3e0cdcc15
+3	330	1675733985800120345	CMakeFiles/DesignPattern.dir/observer/FileSplitter.cpp.o	9aa874b8d748d560
